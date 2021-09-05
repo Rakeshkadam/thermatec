@@ -61,7 +61,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/img_20210829-121355-766x757.jpeg"
       },
       "components": [
         {
